@@ -17,6 +17,10 @@ An analysis of workout history using my personal fitness data downloaded from th
 - EXTRACT
 - CASE
 - TRIM
+- ROUND
+- AVG
+- DELETE
 
 ## Conclusion
-Data was cleaned using pgAdmin 4 and exported as a .csv file to [Tableau](https://public.tableau.com/app/profile/diana.bergstrom/viz/MyPelotonWorkoutHistory/Story1#1) to create visualizations for analysis
+Peloton data was cleaned using pgAdmin 4 and exported as a .csv file to [Tableau](https://public.tableau.com/app/profile/diana.bergstrom/viz/MyPelotonWorkoutHistory/Story1#1) to create visualizations for analysis.
+Fitbit data was cleaned using pgAdmin 4 to practice SQL skills.
